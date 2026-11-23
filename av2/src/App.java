@@ -19,9 +19,10 @@ public class App {
     }
 
     private void criarDadosIniciais() {
-        veiculos.add(
-                new veiculo(
+        Veiculo.add(
+                new veiculos()
                         
         );
 }
+
 
